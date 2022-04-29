@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Фото искатель</string>
+    <string name="test_num">234</string>
+    <string name="search">Ищите изображение…</string>
+    <string name="no_connection">Нет подключение к интернету…</string>
+    <string name="nothing_found">Ничего не найдено</string>
+    <string name="retry">повторить</string>
+    <string name="test_name">Петр</string>
+    <string name="success_remove">Успешно удалено из избранных</string>
+    <string name="success_add">Успешно добавлено в избранные</string>
+    <string name="settings">Настройки</string>
+    <string name="dark_theme">Темная темя</string>
+    <string name="bold_font">Язык</string>
+    <string name="empty">Нет избранных…</string>
+    <string name="recs">Рекомендации</string>
+    <string name="save">сохранить</string>
+    <string name="exit">выйти</string>
+    <string name="safe_mode">Энергосбережение</string>
+
+    <string name="saved_in">Успешно сохранено в </string>
+    <string name="an_error">Произошла ошибка, повторите попытку</string>
+    <string name="select_app">Выберите приложение</string>
+
+    <string name="success_apply">Обой успешно изменен…</string>
+    <string name="attention">Внимание…</string>
+    <string name="give_permission">Вы должны дать разрешение приложению для чтения и записи в на настройках вашего устройства</string>
+    <string name="ok">ОТКРЫТЬ</string>
+    <string name="wait">Подождите…</string>
+
+    <string-array name="recs">
+        <item name="life">Жизнь</item>
+        <item name="love">Любовь</item>
+        <item name="sport">Спорт</item>
+        <item name="girls">Девушки</item>
+        <item name="boys">Мальчики</item>
+        <item name="football">Футбол</item>
+        <item name="tech">Технологии</item>
+        <item name="robots">Роботы</item>
+        <item name="cats">Кошки</item>
+        <item name="animals">Животные</item>
+        <item name="dogs">Собаки</item>
+        <item name="sad">Грусть</item>
+        <item name="motivation">Мотивация</item>
+        <item name="friend">Дружба</item>
+        <item name="magic">Магия</item>
+    </string-array>
+
+</resources>

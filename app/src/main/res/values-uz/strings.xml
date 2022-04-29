@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Rasm qidiruvchi</string>
+    <string name="test_num">234</string>
+    <string name="search">Rasmni qidiring…</string>
+    <string name="no_connection">Internetga aloqa yoq</string>
+    <string name="nothing_found">Xech narsa topilmadi</string>
+    <string name="retry">QAYTA URISNISH</string>
+    <string name="test_name">Abror</string>
+    <string name="success_remove">Sevimli rasmlardan muvvafaqiyatli ochirildi</string>
+    <string name="success_add">Sevimli rasmlarga muvvafaqiyatli qoshildi</string>
+    <string name="settings">Sozlamalar</string>
+    <string name="dark_theme">Tungi rejim</string>
+    <string name="bold_font">Til</string>
+    <string name="empty">Sevimli rasmlar yoq…</string>
+    <string name="recs">Men yoqtirgan mavzu</string>
+    <string name="save">saqlash</string>
+    <string name="exit">chiqish</string>
+    <string name="safe_mode">Quvvat tejash</string>
+
+    <string name="saved_in">Muvvaqiyatli saqlandi </string>
+    <string name="an_error">Kutilmagan xatolik yuz berdi</string>
+    <string name="select_app">Dasturni tanlang</string>
+
+    <string name="success_apply">Qurilma foni muvvaqiyatli ozgartirildi</string>
+    <string name="attention">Diqqat…</string>
+    <string name="give_permission">Вы должны дать разрешение приложению для чтения и записи в на настройках вашего устройства</string>
+    <string name="ok">ОТКРЫТЬ</string>
+    <string name="wait">Подождите…</string>
+
+    <string-array name="recs">
+        <item name="life">Xayot</item>
+        <item name="love">Sevgi</item>
+        <item name="sport">Sport</item>
+        <item name="girls">Qizlar</item>
+        <item name="boys">Erkaklar</item>
+        <item name="football">Futbol</item>
+        <item name="tech">Texnologiyalar</item>
+        <item name="robots">Robotlar</item>
+        <item name="cats">Mushuklar</item>
+        <item name="animals">Xayvonlar</item>
+        <item name="dogs">Itlar</item>
+        <item name="sad">Gamgin</item>
+        <item name="motivation">Motivatsiya</item>
+        <item name="friend">Dostlik</item>
+        <item name="magic">Sexr</item>
+    </string-array>
+
+</resources>
